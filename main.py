@@ -43,7 +43,6 @@ def unauthorized_handler():
 
 
 '''This is the reason why you shoud use request_loader with flask_login.
-
 There will be a lot of @login_required from flask_login used in your api to guard the request access.
 You need to make a request to pass the check of auth.
 
