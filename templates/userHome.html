@@ -4,8 +4,6 @@
 <script src="{{ url_for('static', filename='script.js') }}"></script>
 {% endblock %}
 {% block contenido %}
-<h1>home</h1>
-{% if current_user.is_authenticated %}
-  Hi {{ current_user.id }}!
-{% endif %}
+<h1>userHome</h1>
+<h2>estas logeado como: {{ user }}</h2>
 {% endblock %}
