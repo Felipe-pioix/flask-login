@@ -9,6 +9,17 @@ https://flask-login.readthedocs.io/en/latest/
 
 ## investigar
 - sql alchemy
-- from flask_login import current_user
-- https://github.com/datosgcba/taller-api-transporte
+
+## apis publicas de interes
+- https://github.com/datosgcba/taller-api-transporte y https://buenosaires.gob.ar/desarrollourbano/transporte/apitransporte
+- https://buenosaires.gob.ar/datosabiertos/apis
+- https://www.cultura.gob.ar/api/v2.0/ 
 - https://ws.smn.gob.ar/map_items/weather
+- https://developers.google.com/apis-explorer?hl=es-419
+- https://api.nasa.gov/
+- https://alexwohlbruck.github.io/cat-facts/docs/ 
+
+## apis de cine tv y anime:
+- https://pokeapi.co/
+- https://anilist.gitbook.io/anilist-apiv2-docs/
+- https://developer.marvel.com/documentation/getting_started
