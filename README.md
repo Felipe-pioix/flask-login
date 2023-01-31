@@ -11,3 +11,4 @@ https://flask-login.readthedocs.io/en/latest/
 - sql alchemy
 - from flask_login import current_user
 - https://github.com/datosgcba/taller-api-transporte
+- https://ws.smn.gob.ar/map_items/weather
