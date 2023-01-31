@@ -10,3 +10,4 @@ https://flask-login.readthedocs.io/en/latest/
 ## investigar
 - sql alchemy
 - from flask_login import current_user
+- https://github.com/datosgcba/taller-api-transporte
